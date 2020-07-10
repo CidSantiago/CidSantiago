@@ -8,7 +8,7 @@
 
 Right now, I'm a Junior Data Scientist at Secretaria de Saude do Estado do Ceará (Ceará's Health Department)
 
-🔭 My main language is python, but as you can see, at college I had some experience with Java, C, R, MATLAB/Octave, Verilog...
+🔭 My main language is python, but, as you can see,, at college I had some experience with Java, C, R, MATLAB/Octave, Verilog...
 
 🌱 I’m currently learning Data Engineering in general (Data streaming, data lakes, ETL...)
 
