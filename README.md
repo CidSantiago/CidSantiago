@@ -6,10 +6,10 @@
 
 ### Welcome to my Repository! 👋 Don't mind the mess, i wasn't expecting visitors! 🤣
 
-I was a Junior Data Scientist at Secretaria de Saude do Estado do Ceará (Ceará's Health Department).
-Right now, i am a Data Scientist at Ministerio Público do Ceará, working with OCR and NLP :) 
+I am a Data Scientist at Instituto Atlantico, here in Fortaleza! I was a Junior Data Scientist at Secretaria de Saude do Estado do Ceará (Ceará's Health Department) and
+a Data Scientist at Ministerio Público do Ceará.:) 
 
-🔭 My main language is python, but, as you can see,, at college I had some experience with Java, C, R, MATLAB/Octave, Verilog...
+🔭 My main language is python, but, as you can see, at college I had some experience with Java, C, R, MATLAB/Octave, Verilog...
 
 🌱 I’m currently learning Data Engineering in general (Data streaming, data lakes, ETL...)
 
