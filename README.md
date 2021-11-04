@@ -6,8 +6,8 @@
 
 ### Welcome to my Repository! 👋 Don't mind the mess, i wasn't expecting visitors! 🤣
 
-I am a Data Scientist at Instituto Atlantico, here in Fortaleza! I was a Junior Data Scientist at Secretaria de Saude do Estado do Ceará (Ceará's Health Department) and
-a Data Scientist at Ministerio Público do Ceará.:) 
+I am a Analytics Engineer at quintoAndar! I was a Junior Data Scientist at Secretaria de Saude do Estado do Ceará (Ceará's Health Department) and
+a Data Scientist at Instituto Atlantico.:) 
 
 🔭 My main language is python, but, as you can see, at college I had some experience with Java, C, R, MATLAB/Octave, Verilog...
 
