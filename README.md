@@ -6,12 +6,11 @@
 
 ### Welcome to my Repository! 👋 Don't mind the mess, i wasn't expecting visitors! 🤣
 
-I am a Analytics Engineer at quintoAndar! I was a Junior Data Scientist at Secretaria de Saude do Estado do Ceará (Ceará's Health Department) and
-a Data Scientist at Instituto Atlantico.:) 
+I am a Data Engineer working at BEES Brasil, part of the AbInbev Incorporations! Previously, I was a Analytics Engineer at quintoAndar and a Data Scientist at Instituto Atlantico.:) 
 
-🔭 My main language is python, but, as you can see, at college I had some experience with Java, C, R, MATLAB/Octave, Verilog...
+🔭 My main language is python and SQL, but, as you can see, at college I had some experience with Java, C, R, MATLAB/Octave, Verilog...
 
-🌱 I’m currently learning Data Engineering in general (Data streaming, data lakes, ETL...)
+🌱 I’m currently learning more about CI/CD in general. Things like docker and such.
 
 ⚡ Fun fact: I also play Football as a Linebacker! Don't piss me off or i will tackle you 😂
 
