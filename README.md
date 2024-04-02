@@ -1,7 +1,6 @@
 # Cid Santiago 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiocidsantiago/)](https://www.linkedin.com/in/cidsantiago/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CidSantiago50)](https://twitter.com/CidSantiago50)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiocid@gmail.com)](mailto:caiocid@gmail.com)
 
 ### Welcome to my Repository! 👋 Don't mind the mess, i wasn't expecting visitors! 🤣
